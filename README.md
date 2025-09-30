@@ -4,7 +4,7 @@ A simple **real-time chat application** built using **Node.js**, **Express**, an
 This project demonstrates the basics of WebSocket communication for building interactive real-time applications.
 
 
-![Chat App Screenshot](git remote add origin https://github.com/mohdShumayl/chatApp.git)
+![Chat App Screenshot](https://github.com/mohdShumayl/chatApp/blob/main/public/images/chatApp.png)
 ---
 
 ## Features
